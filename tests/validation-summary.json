@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "checked_on": "2026-10-04",
+  "unit_tests": 24,
+  "unit_tests_passed": true,
+  "behavioral_tests": "Designed, not executed against an agent",
+  "reference_docx_pages": 3,
+  "all_reference_page_images_visually_checked": true,
+  "native_creator_result": {
+    "displayName": "PRRP_Andy",
+    "kind": "document",
+    "skillName": "prrp-andy",
+    "skillPath": "/mnt/data/template-skill-drafts/prrp-andy"
+  },
+  "source_records": 26,
+  "source_access_levels_preserved": true,
+  "reference_and_preview_unchanged": true,
+  "template_installed": "Not asserted; requires product confirmation",
+  "v2_notes": "Integrated intent/document/programme/field routing, review/revise/draft/polish/red-team workflows, a language pass, and current-source requirements routing. Static campus numbers and unverified social-media conclusions are not treated as rules.",
+  "limits": "Mechanical tests do not validate facts, admissions effectiveness, target policy compliance or AI authorship."
+}

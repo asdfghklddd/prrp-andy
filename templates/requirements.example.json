@@ -1,0 +1,21 @@
+{
+  "mode": "unknown",
+  "institution": null,
+  "programme": null,
+  "entry_year": null,
+  "document_type": null,
+  "prompt_verbatim": null,
+  "prompt_source": null,
+  "requirements_verified_on": null,
+  "ai_policy_status": "unknown",
+  "ai_policy_url": null,
+  "language": null,
+  "submission_medium": null,
+  "accepted_file_types": [],
+  "count_scope_note": "填写官方计数范围；计数输入须已按此范围抽取。",
+  "limits": [],
+  "required_literals": [],
+  "forbidden_literals": [],
+  "protected_literals": [],
+  "notes": "limits示例：{\"metric\":\"words_whitespace\",\"max\":500}。仅在已核实后填写；不得由模板推定500词。"
+}

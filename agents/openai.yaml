@@ -1,0 +1,8 @@
+interface:
+  display_name: "PRRP_Andy"
+  short_description: "先核实事实与要求，再审核、起草、red-team 和润色 PRE/RP"
+  icon_small: "./assets/preview.png"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 PRRP_Andy。先读取材料并核对目标项目原题、当前要求与 AI 政策，识别 PRE/PR 或 RP，再按审核、起草、改写、润色或 red-team 路由处理。"
+policy:
+  allow_implicit_invocation: true
